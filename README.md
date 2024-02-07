@@ -8,8 +8,6 @@ remote add origin https://github.com/smartinternz02/SI-GuidedProject-713053-1706
 
 SmartInternz Profile:- https://smartinternz.com/student-profile/feed/U0IyMDIzMDcyNDA2NA==
 
-Project Demo Video:- [YouTube](https://youtu.be/H52bT-g6Ies)
-
 
 ## Amazon
 Amazon is an American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence web site for searching a product and order as per end user wish list. It has been often referred to as "one of the most influential economic and cultural forces in the world, and is often regarded as one of the world's most valuable brands. It is considered one of the Big Five  American technology companies, alongside Alphabet (parent_company_of Google), Apple, Meta (formerly Facebook, Inc.) and Microsoft. Amazon also distributes a variety of downloadable and streaming content through its Amazon Prime Video, Amazon Music, Twitch, and Audible units.
@@ -63,8 +61,3 @@ To accomplish this, we have to complete all the activities listed below:
   
 ## Project Structure:
 ![image](https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693/assets/58482473/78f4622c-99a5-468c-a380-a8f75a91f8da)
-
-
-## Project Explanation Video Recording 
-Link:
-https://drive.google.com/file/d/1Cp5WltJtqSuAlPlHve0Ut3fIGXJB_QgE/view?usp=drive_link
